@@ -133,14 +133,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>CPP-CODES/README.md at main · Uzair253/CPP-CODES</title>
+  <title>CPP-CODES/EVEN AND ODD.cpp at main · Uzair253/CPP-CODES</title>
     <meta name="description" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e18b81be56e310fe28f50035faf92705df615aca3980b7a00b72f0dd7618ce98/Uzair253/CPP-CODES" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="CPP-CODES/README.md at main · Uzair253/CPP-CODES" /><meta name="twitter:description" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/e18b81be56e310fe28f50035faf92705df615aca3980b7a00b72f0dd7618ce98/Uzair253/CPP-CODES" /><meta property="og:image:alt" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CPP-CODES/README.md at main · Uzair253/CPP-CODES" /><meta property="og:url" content="https://github.com/Uzair253/CPP-CODES" /><meta property="og:description" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e18b81be56e310fe28f50035faf92705df615aca3980b7a00b72f0dd7618ce98/Uzair253/CPP-CODES" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="CPP-CODES/EVEN AND ODD.cpp at main · Uzair253/CPP-CODES" /><meta name="twitter:description" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/e18b81be56e310fe28f50035faf92705df615aca3980b7a00b72f0dd7618ce98/Uzair253/CPP-CODES" /><meta property="og:image:alt" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CPP-CODES/EVEN AND ODD.cpp at main · Uzair253/CPP-CODES" /><meta property="og:url" content="https://github.com/Uzair253/CPP-CODES" /><meta property="og:description" content="Contribute to Uzair253/CPP-CODES development by creating an account on GitHub." />
     
 
 
@@ -148,11 +148,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/99491740/ws?session=eyJ2IjoiVjMiLCJ1Ijo5OTQ5MTc0MCwicyI6ODMwMjExNzM2LCJjIjoxNjIwODQ0NDU1LCJ0IjoxNjQ0NTk4MzYzfQ==--f3d71da46ea813d8656fcf5354cdc80fd3ff8ca78903ad05fea2a963a25d2a82" data-refresh-url="/_alive" data-session-id="8eeba6bb3ab26a07bbea3b239e2f69860d545fa39a0b6faa2f608b04cd872465">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/99491740/ws?session=eyJ2IjoiVjMiLCJ1Ijo5OTQ5MTc0MCwicyI6ODMwMjExNzM2LCJjIjo5NTUyNDgwNDcsInQiOjE2NDQ1OTg0NDN9--8e1c6a790dcf0b866ec35bd3e91dabcd03c33c841d35255af2329b692cbdfab7" data-refresh-url="/_alive" data-session-id="8eeba6bb3ab26a07bbea3b239e2f69860d545fa39a0b6faa2f608b04cd872465">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-941b4c1e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="6E7B:4422:B36255:CD65A6:6206945A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="3659be2acc4dab78f240357101753de23f348c779fad8bc7ce2c53fd52b60822" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9VemFpcjI1My9DUFAtQ09ERVMiLCJyZXF1ZXN0X2lkIjoiNkU3Qjo0NDIyOkIzNjI1NTpDRDY1QTY6NjIwNjk0NUEiLCJ2aXNpdG9yX2lkIjoiMTE0NjgzODcwNzI3ODg3MDIxMCIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="0f60baf191384e980e6b664a4ae4d24822581f74a7dc800504106603651bcda7" data-pjax-transient="true" />
+  <meta name="request-id" content="6F6B:0BD7:38D7C:14D6E5:620694AA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="3659be2acc4dab78f240357101753de23f348c779fad8bc7ce2c53fd52b60822" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9VemFpcjI1My9DUFAtQ09ERVMiLCJyZXF1ZXN0X2lkIjoiNkY2QjowQkQ3OjM4RDdDOjE0RDZFNTo2MjA2OTRBQSIsInZpc2l0b3JfaWQiOiIxMTQ2ODM4NzA3Mjc4ODcwMjEwIiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="5d14f78a8c83ad56eef925718b9e97c1161f92a5702ec9209ab20b467cf3360a" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:458219808" data-pjax-transient>
 
@@ -191,7 +191,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NzI3MzdlYjE5YTJkYmU4NGQwNGVmZTBhNDVhNDgyOTg4ZWM4YWE3Njk1MjcxNTk2OGMwNjc0OWFlMzM5MTJhM3x7InJlbW90ZV9hZGRyZXNzIjoiMTU0LjE5Mi4xMDIuMjM4IiwicmVxdWVzdF9pZCI6IjZFN0I6NDQyMjpCMzYyNTU6Q0Q2NUE2OjYyMDY5NDVBIiwidGltZXN0YW1wIjoxNjQ0NTk4MzYzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="YTUzOTg2YWJiZWZlM2ZmNzU4NjllMTcxNGFiMTE0ZTk3N2Q1MzYyM2YyZWJkOWIyNTk1NjBlOTA5NzFiY2MzZnx7InJlbW90ZV9hZGRyZXNzIjoiMTU0LjE5Mi4xMDIuMjM4IiwicmVxdWVzdF9pZCI6IjZGNkI6MEJENzozOEQ3QzoxNEQ2RTU6NjIwNjk0QUEiLCJ0aW1lc3RhbXAiOjE2NDQ1OTg0NDMsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -211,7 +211,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Uzair253/CPP-CODES/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -252,7 +252,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="894c0b57761e5b1ba78db96459fd728315bdae116ee315deda038ee93d36215c" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="7b6f868a530dc0c830e3ba0e6642ab017c5a600abc7f35238935f4ec40ec7e43" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -296,7 +296,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="TPU3mp3_biuNqr4dr8aTy3bq-8kexZZHba15lFczaqXCpwZI9NI1Mm8astWfqSMIXQBTJCQ6Jvrw6-sugTWccQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="29meCk0ZD5UhEnbyotYSBEkhDEoqAZms5MKnh01ELktVi6_YJDRUjMOiejqSuaLHYsukpxD-KRF5hDU9m0LYnw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -500,7 +500,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;MUHAMMAD-HUZAIFA-2005&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="1c41851f091c3b3a2b88ac6aac7465c7394c5750a1dd5df9fc891d727ce76dae" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;MUHAMMAD-HUZAIFA-2005&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="555e74aa21d751771fed1373f86c105fe8a178d4b82656bed925c7bd9d43f196" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -509,12 +509,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/99491740?s=40&amp;v=4" width="20" height="20" alt="@MUHAMMAD-HUZAIFA-2005" />
       MUHAMMAD-HUZAIFA-2005
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WFBcsx3A-8zRMAaBcndrqbPQsSBeZW1iI0i_8y_8KkJKAfq7WAFnooCmIWQluGzdXK2Xzyy540b7XLKRwl2Flg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hkG6wg7PnXj57dRUCSGV_uO6d7rk2UNs5iET7s1ZM4eUEBzKSw4BFqh787Fe7pKKDMdRVZYFzUg-NR6MIPicUw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="c64098a5eb9c12b58859f22afb45ca4e4c0f9c1a0866f670359afdd7af165882" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="94673d9d421012e1909089f9d3c8a146f75e0c38d807d48cb0ac793ad7dca0d3" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -531,7 +531,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="894c0b57761e5b1ba78db96459fd728315bdae116ee315deda038ee93d36215c" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="7b6f868a530dc0c830e3ba0e6642ab017c5a600abc7f35238935f4ec40ec7e43" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -547,7 +547,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTk0OTE3NDAiLCJ0IjoxNjQ0NTk4MzYzfQ==--e70f5b05c8b267d2d4803ed7a933e8fe08f44b870c89a117b62774da9e1cff3b">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTk0OTE3NDAiLCJ0IjoxNjQ0NTk4NDQzfQ==--e942117484663880556d057554793ea18fbe80e55b9d012a95a2a8dec073d75f">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -570,7 +570,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="3df7bbe6835904948341e793da651b1cdb05f1e2049e68c5d3736e610ff25b87" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="09233985747b76bec7e43dc0b85390efaa868bc65e6e1573da56bf5b8c6100c5" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -608,7 +608,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="f5a33a669b23b8856963fa8cf1cda7b6d069d69678ccfb947d169e4b3af331cc" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="32e151aeb374d030220b4947bed150ecd049bc2b3c4cab2772dd613ce191cb86" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/99491740?s=40&amp;v=4" alt="@MUHAMMAD-HUZAIFA-2005" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -680,14 +680,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/Uzair253/CPP-CODES/blob/main/README.md
+      data-return-to=/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp
       data-user-id="99491740"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
       >
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="aqvE4QHpMQJTZ2HpmtR6xNinDw_DCG4w28q5mSCoyx8xgFr60G4jXwswaY-c_hYspFj7zqupBq7oPzSt5Jq74Q" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="CUDQKM1ylwNCjj7Oa1JQTMqLzdu53cEyWE1qkMhT4yxSa04zHPWFXhrZNqhteDyktnQ5GtF8qaxruOekDGGT0g" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1549,7 +1549,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="a3eae8227429515787da171c203c2434f911f4d72430b4ceeadce2e36063c0cc" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="b34d397343a15d63f24d8424973644fe99522b11af665e0d5d6c6900ba4e3e67" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1601,7 +1601,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GJj6QxL0-zP38qpgQTYlrOsPiVttis2VslO7Yec2SzdF1vwia0Hk9AZm07tOZtjoaRAwVEwqAywOK-0JMjurzg" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iUFRcgSZHnWPS8NrLsbB-m_G7sb4QeYr2UqEdfEA5r7UD1cTfSwBsn7furAhljy-7dlXydnhKJJlMtIdJA0GRw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="458219808">
 
@@ -1729,7 +1729,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="a7JmLks3UKaAJnbkC0VP-Rdx-zXFwcSb3_Z4WaXLRZQ2_GBPMoJPYXGyDz8EFbK9lW5COuRhCiJjji4xcMalbQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TPiGC7HgNH0JDJcHaOHKrlvvwMQQNL0CULI-u8pYZjMRtoBqyFUruviY7txnsTfq2fB5yzGUc7vsymjTH1WGyg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="458219808">
 
@@ -1874,8 +1874,8 @@
   </li>
 
   <li>
-            <form class="btn-with-count" action="/Uzair253/CPP-CODES/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9yo02rZO0UXpNO71ZLKW-4u30Yo8_njiiQdVRQZqiJ1m6kX4oS-6ElIstHIxO-wWdhVEgBSzPCh17KFJXYku6w" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="b437158eb4ef3b6196450c90d789ea88e8579751b2b0012127d0b20fc61a4bb7" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Uzair253/CPP-CODES to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <form class="btn-with-count" action="/Uzair253/CPP-CODES/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y_exttUyA2kX3iDvcuFl7nJq4EXCEk33Msdrn7Rt5PvyN8CUwlNoPqzGemgnaB8Dj8h1T-pfCT3OLJ-T745CjQ" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="be2c15f3ad21531ad391d05cc9f933aa6027ea822fa35c7439e6567be77760fd" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Uzair253/CPP-CODES to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1902,24 +1902,24 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/Uzair253/CPP-CODES/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CeTLEz_I_HFDmfiCFwGpvKjseVMumyPociuJkLEphrESi4X8_J7JqRZRe_P4FJ2nSZ_3OMhQ8DMsFEI8yV9qrw" autocomplete="off" />
-        <input type="hidden" value="oqp8Wl92AVDEGGvz6uVDXjIUxcp-WCBv7qyip_92Cia5xTK1nCA0iJHQ6IIF8HdF02dLoZiT87Swk2kLhwDmOA" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/Uzair253/CPP-CODES/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LkkdV9JiZE6snrmYjQiqFqXUNxIT76TIynfCaWsFTm81JlO4ETRRlvlWOuliHZ4NRKe5efUkdxOUSAnFE3OicQ" autocomplete="off" />
+        <input type="hidden" value="is2FPBnt9CkwZ46RgYKksbLM5ITdRWzbr4p8MieO00SRosvT2rvB8WWvDeBul5CqU79q7zuOvwDxtbeeX_g_Wg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="2fe5f29dae9a649eb048469b23c29c804643fd7b6eeec73b50693330060ba5e4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="991652dff1bcc16b333ed69279d9534066ae18e84198267bf79a36293d89f3f4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/Uzair253/CPP-CODES/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mpDHPFcY70CdPpiO0GHavGP6uY4fnzimRcuDLq8X49jXVO5oZ-FPUV25mOr1Q6Zqz0NXFAMLT1_Byv4D-BrfWw" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/Uzair253/CPP-CODES/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jaW8u41Fw4G975Saa9ryyXBmFIU6LavFLuA9TVQHl7zAYZXvvbxjkH1olP5O-I4f3N_6Hya53Dyq4UBgAwqrPw" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="667cbde72ec8f694c4f69d5041ce4ff26218b14aaa53780b2e0ee7af6ee3da44" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="758e1228ac13e42249864dd6f5852e3dfaa9c481d6f69e93482188da97984ceb" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-      <details id="details-ddc666" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-731047" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1927,7 +1927,7 @@
   <div class="Box-header">
     <h2 class="Box-title">Create list</h2>
   </div>
-  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/MUHAMMAD-HUZAIFA-2005/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rzZorga5zuIk-SFs-XnJDPz6JUAhng9WWgTwDpzE2efNeaRvCIoTJSUNbtW2oST8_UamkgjYo18GmhdHqAgB2g" autocomplete="off" />
+  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/MUHAMMAD-HUZAIFA-2005/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bcppRKN7XsW0xggjmoYpEaulsHNJg_y4Rxo_Ic3J9IYPhaWFrUiDArUyR5rVXsThqhkzoWDFULEbhNho-QUsuw" autocomplete="off" />
         <p class="color-fg-subtle mb-3">Create a list to organize your starred repositories.</p>
       <input type="hidden" name="repository_id" value="{{ repositoryId }}">
 
@@ -1947,7 +1947,7 @@
           required
         >
       </text-expander>
-      <input type="hidden" value="jJVauSzo1w-XEjI2qb3JD7ztJqfQzNnxdVkRciuNY9n2oNYq5b4OMO4rpk5UGMweZc96gvZTjSSzhyEQbBM2eA" data-csrf="true" />
+      <input type="hidden" value="qWRE62PdpYUEXF9C1cLsO5dpBBDpsGYdnHNboBhboTnTUch4qot8un1lyzooZ-kqTktYNc8vMsharWvCX8X0mA" data-csrf="true" />
     </auto-check>
     <p
       class="note error position-relative js-user-list-error"
@@ -2011,13 +2011,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ddc666">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-731047">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-ddc666"
+        id="filter-menu-731047"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2220,7 +2220,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Uzair253/CPP-CODES/blob/c048015e70cb83f034533eefd509ff67a1b5e71e/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Uzair253/CPP-CODES/blob/c048015e70cb83f034533eefd509ff67a1b5e71e/EVEN%20AND%20ODD.cpp">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -2306,7 +2306,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Uzair253/CPP-CODES/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Uzair253/CPP-CODES/blob/{{ urlEncodedRefName }}/EVEN%20AND%20ODD.cpp" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2346,7 +2346,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Uzair253/CPP-CODES/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Uzair253/CPP-CODES/blob/{{ urlEncodedRefName }}/EVEN%20AND%20ODD.cpp" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2377,7 +2377,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Uzair253/CPP-CODES"><span>CPP-CODES</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Uzair253/CPP-CODES"><span>CPP-CODES</span></a></span></span><span class="separator">/</span><strong class="final-path">EVEN AND ODD.cpp</strong>
       </h2>
       <a href="/Uzair253/CPP-CODES/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -2393,7 +2393,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="f11e99629c95337e86baf49c9d60476da39eae69c02c9b748410d3676361387e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Uzair253/CPP-CODES/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="e8adda7033a4f8c2f8e3f22a93d46eab040a2cd4733ec76b78f505d045972f38" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Uzair253/CPP-CODES/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -2405,13 +2405,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="EVEN AND ODD.cpp" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Uzair253/CPP-CODES/blob/c048015e70cb83f034533eefd509ff67a1b5e71e/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Uzair253/CPP-CODES/blob/c048015e70cb83f034533eefd509ff67a1b5e71e/EVEN%20AND%20ODD.cpp" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -2442,7 +2442,7 @@
     <include-fragment src="/Uzair253/CPP-CODES/spoofed_commit_check/c048015e70cb83f034533eefd509ff67a1b5e71e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/Uzair253/CPP-CODES/contributors/main/README.md" class="commit-loader">
+      <include-fragment src="/Uzair253/CPP-CODES/contributors/main/EVEN%20AND%20ODD.cpp" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2474,25 +2474,17 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      17 lines (15 sloc)
       <span class="file-info-divider"></span>
-    11 Bytes
+    234 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/Uzair253/CPP-CODES/blob/main/README.md?plain=1" data-permalink-href="/Uzair253/CPP-CODES/blob/c048015e70cb83f034533eefd509ff67a1b5e71e/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>    <a href="/Uzair253/CPP-CODES/blob/main/README.md" data-permalink-href="/Uzair253/CPP-CODES/blob/c048015e70cb83f034533eefd509ff67a1b5e71e/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Uzair253/CPP-CODES/raw/c048015e70cb83f034533eefd509ff67a1b5e71e/README.md" href="/Uzair253/CPP-CODES/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/Uzair253/CPP-CODES/blame/c048015e70cb83f034533eefd509ff67a1b5e71e/README.md" href="/Uzair253/CPP-CODES/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/Uzair253/CPP-CODES/raw/c048015e70cb83f034533eefd509ff67a1b5e71e/EVEN%20AND%20ODD.cpp" href="/Uzair253/CPP-CODES/raw/main/EVEN%20AND%20ODD.cpp" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/Uzair253/CPP-CODES/blame/c048015e70cb83f034533eefd509ff67a1b5e71e/EVEN%20AND%20ODD.cpp" href="/Uzair253/CPP-CODES/blame/main/EVEN%20AND%20ODD.cpp" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
@@ -2506,11 +2498,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Uzair253/CPP-CODES/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Uzair253/CPP-CODES/raw/main/EVEN%20AND%20ODD.cpp" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="b828dc918aa1e86e9a6a3111a8c8fd210a5396ffb8daaf2fb1d61d542bcd120b" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="3fb93a3120224ac668778193902d759328f7d280386bffa630d371b168fd7a1f" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2533,7 +2525,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Uzair253/CPP-CODES/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="X0vkWfRtsVYHk9OWxWX0hzHSWd2i0tB1pZxsF_9t9olfg2XPs9tZW8YXk_CH4TwtR9E6h5vmiGYmEAkWZjisyg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Uzair253/CPP-CODES/edit/main/EVEN%20AND%20ODD.cpp" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TzfWBPY0Hb5VnWLu0Z42K_4M7GAAf8z9e6IksYSAjH61dOdozuWwzXPvlkPdkO1At-OmZlz2jekNGu2gjia4wg" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2541,7 +2533,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Uzair253/CPP-CODES/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u4WMdjRlfszA46T2sYNG6jTpJ86glHtQ-RlYGmLIa4mg_hzjMnlvYE3WxXRkRTFKvg-Z5XMl3D-wwEwwgp5kDQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Uzair253/CPP-CODES/delete/main/EVEN%20AND%20ODD.cpp" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rLMxFul1A3eWQqjba122QM8jTYSPZXs-ZAF_pNd-V5VoBuF9X5aO7OtI_ZN8qC1l5VUvchU32fGJtwYapezQrg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2569,15 +2561,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Uzair253/CPP-CODES/raw/main/README.md">
+            <a class="dropdown-item" href="/Uzair253/CPP-CODES/raw/main/EVEN%20AND%20ODD.cpp">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Uzair253/CPP-CODES/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Uzair253/CPP-CODES/raw/main/EVEN%20AND%20ODD.cpp" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="b828dc918aa1e86e9a6a3111a8c8fd210a5396ffb8daaf2fb1d61d542bcd120b">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:458219808,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="3fb93a3120224ac668778193902d759328f7d280386bffa630d371b168fd7a1f">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2600,17 +2592,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Uzair253/CPP-CODES/blame/main/README.md">
+              <a class="dropdown-item" href="/Uzair253/CPP-CODES/blame/main/EVEN%20AND%20ODD.cpp">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Uzair253/CPP-CODES/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/Uzair253/CPP-CODES/edit/main/EVEN%20AND%20ODD.cpp">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Uzair253/CPP-CODES/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Uzair253/CPP-CODES/delete/main/EVEN%20AND%20ODD.cpp">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2618,9 +2610,134 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-cpp-codes" class="anchor" aria-hidden="true" href="#cpp-codes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>CPP-CODES</h1>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-c  gist-border-0">
+
+      
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C++" data-tagsearch-path="EVEN AND ODD.cpp">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>iostream<span class="pl-pds">&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-k">using</span> <span class="pl-k">namespace</span> <span class="pl-en">std</span><span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">main</span>()</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">   <span class="pl-k">int</span>  a;</td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">   cout&lt;&lt;<span class="pl-s"><span class="pl-pds">&quot;</span>Enter any one number <span class="pl-pds">&quot;</span></span>&lt;&lt;endl;</td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">   cin&gt;&gt;a;</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">   <span class="pl-k">if</span> (a%<span class="pl-c1">2</span>==<span class="pl-c1">0</span>) {</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">   cout&lt;&lt;a&lt;&lt;<span class="pl-s"><span class="pl-pds">&quot;</span>is even<span class="pl-pds">&quot;</span></span>&lt;&lt;endl;</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">   <span class="pl-k">else</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">   {</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">   </td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">   cout&lt;&lt;a&lt;&lt;<span class="pl-s"><span class="pl-pds">&quot;</span>is odd<span class="pl-pds">&quot;</span></span>&lt;&lt;endl;</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"> }</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">   </td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"> }</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Uzair253/CPP-CODES/blame/c048015e70cb83f034533eefd509ff67a1b5e71e/EVEN%20AND%20ODD.cpp">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Uzair253/CPP-CODES/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -2667,16 +2784,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="9f77cf1d9209e1a44cf3aa890aeeace932a46eadcc6ee896c87a16da6c5393a0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="c8c4a92c7c2f6249309313f7838d7c65d24be8d28a252072d151d74190cc0730" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="126957cf5d1f547d74622bf9136c15b20f57c02010df229492762060465a66f0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="a5369b89035b5069e79a0a3fa4271cd5f97487eadea88e66dd18056f29643da8" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="8aca6f71c9aeb7f46d736bf913399cb43b0b93447ff431e46ac6226049009a70" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="53a4c06f3d8929232817a98257c0285896ae73fbc3a1f916dbfdf2d7b69d3d83" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="b18c2da85a8467af34816bf1736a6552561f84f013e18f6ba34557ca1baffa1e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="8c4d73a936edb718a836a73c137529e98607bb3409502547deacd131e3994dbf" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="6546838ce5e79e764f93035052161d797de47620d783095ebb568027efd03db2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="bf968f59502b519e4bb97fbcd30426b5e7bdc9dbd22a57d4cdca4adc807b91d1" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="23b1644d999707bf9bf99e96280d8506ca2ed11cc97bf85d8b9eb123b419207d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="3077396e1c98d38b8452634c9b2642135633bbf9af736b5b1c583c9f4ff35065" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/README.md&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="c86906a43fcf45166019f751d43ee99b92ed9ad76c83cc2210f3f9aaca744ee1" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="1d2cc72cc8c5c063f558f4f693b18452fe3bda63d2ef50d496b47b272ee5492f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="1ac3bf21c09ac974568b7776b22095183642681c102579fe3e3eff1bb0a2b198" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="657dee9fb6845ad0acf9bb323831567ee27c31049cc8e38252862d12974c5fa8" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="c24d77e9cf244f73c8d9c36efd1151b74f6f3b355245ebec299131676122a1c1" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/Uzair253/CPP-CODES/blob/main/EVEN%20AND%20ODD.cpp&quot;,&quot;user_id&quot;:99491740}}" data-hydro-click-hmac="65101c5ae060337ec6473671a8d497681d109d2e378064361a8bdbfd385285d5" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
